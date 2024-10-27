@@ -10,7 +10,7 @@
 <h2 align="center">🚀 Proyectos Destacados</h2>
 <ul>
   <li><a href="https://github.com/hectorBack/Gestor_Calificaciones_Java">Proyecto 1</a>: Gestor de Calificaciones.</li>
-  <li><a href="enlace-a-proyecto-2">Proyecto 2</a>: Gestor de empleados.</li>
+  <li><a href="https://github.com/hectorBack/AppMovil_GestorPedidos">Proyecto 2</a>: Gestor de Pedidos AppMovil.</li>
   <li><a href="https://github.com/hectorBack/PasswordGenerated">Proyecto 3</a>: Generar Contraseñas.</li>
 </ul>
 
