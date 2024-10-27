@@ -11,7 +11,7 @@
 <ul>
   <li><a href="enlace-a-proyecto-1">Proyecto 1</a>: Gestor de Calificaciones.</li>
   <li><a href="enlace-a-proyecto-2">Proyecto 2</a>: Gestor de empleados.</li>
-  <li><a href="enlace-a-proyecto-3">Proyecto 3</a>: Subida de Archivos.</li>
+  <li><a href="https://github.com/hectorBack/PasswordGenerated">Proyecto 3</a>: Generar Contraseñas.</li>
 </ul>
 
 <h2 align="center">🛠️ Habilidades</h2>
