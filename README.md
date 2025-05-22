@@ -1,7 +1,7 @@
 # 💫 About Me:  
 ¡Hola! 👋 **Bienvenido a mi perfil de GitHub 🚀**  
 
-Soy un **joven programador de 23 años** originario de **México**, apasionado por la **tecnología y el desarrollo de software**. Siempre estoy buscando aprender nuevas herramientas y habilidades que me permitan crecer profesionalmente y **destacar** en todo lo que hago. Cada reto lo veo como una oportunidad de mejora, y mi objetivo es **aportar valor** en cada proyecto del que forme parte.  
+Soy un **joven programador de 24 años** originario de **México**, apasionado por la **tecnología y el desarrollo de software**. Siempre estoy buscando aprender nuevas herramientas y habilidades que me permitan crecer profesionalmente y **destacar** en todo lo que hago. Cada reto lo veo como una oportunidad de mejora, y mi objetivo es **aportar valor** en cada proyecto del que forme parte.  
 
 ## ✨ ¿Qué me define?  
 - **💡 Proactividad y Curiosidad:** Siempre estoy al tanto de nuevas tecnologías y tendencias emergentes.  
